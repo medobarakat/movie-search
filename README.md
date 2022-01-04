@@ -19,7 +19,7 @@ this is a  Webpage For Searching Films and Shows
 To get a local copy of the repository please run the following commands on your terminal:
 - ```$ cd <folder>```
 - ```$ git clone https://github.com/medobarakat/movie-search.git ```
-- ```$ cd movie-search-app ```
+- ```$ cd movie-search ```
 - ```npm install```
 - ```npm start```
 

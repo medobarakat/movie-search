@@ -1,0 +1,35 @@
+* {
+  font-family: "Open Sans", sans-serif;
+  background-color: #cae7df;
+  color: black;
+}
+
+.h4 {
+  color: red;
+}
+h5 {
+  transition: all 0.4s;
+}
+h5:hover {
+  color: red;
+}
+.card {
+  border-color: black !important;
+  height: 27rem;
+}
+
+.cards {
+  transition: all 0.4s;
+}
+.cards:hover {
+  transform: scale(1.1);
+}
+.CardList {
+  margin-top: 2rem;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+footer {
+  margin-top: 2rem;
+}
